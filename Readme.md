@@ -64,7 +64,7 @@ The development of this project led to the discovery and reinforcement of severa
 
 ## Demo 🎮
 
-Curious to see the game in action? Check out the [Word Scramble Demo](#).
+Curious to see the game in action? Check out the [Word Scramble ]("https://onkar156.github.io/Js-Word-Scramble/").
 
 ## Contributing 🤝
 
